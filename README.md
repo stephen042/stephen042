@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stephen042
-- 👀 I’m interested in javascript for wed development
+- 👀 I’m interested in javascript and PHP for wed development
 - 🌱 I’m currently learning . php & javascipt
 - 💞️ I’m looking to collaborate on .. javascript and php
 - 📫 How to reach me ... +234 09024452025(whatsApp)
